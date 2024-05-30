@@ -6,7 +6,7 @@
 
 <ul>
     <li>I love web3 world. ❤️</li>
-    <li>l'm a smart contract engineer.![Y{`%@9QU58UC (I`($`UXW1](https://github.com/Tracec8/Tracec8/assets/115472999/daf8e431-ac42-4b65-b538-7e3099b0da25)
+    <li>l'm a smart contract engineer.Y{`%@9QU58UC (I`($`UXW1
 </li>
     <li> To the moon. 🚀</li>
 </ul>
